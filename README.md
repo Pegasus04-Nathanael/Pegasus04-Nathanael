@@ -32,7 +32,7 @@ I value **systems thinking over hype**, solid engineering fundamentals, and shar
 ## 🎯 What I'm Working On
 
 - 🔬 **Research Internship at INRIA Rennes** (April-August 2026) on Processing-In-Memory systems
-- 📚 Preparing for **PhD applications** in ML Systems, Distributed Computing, Edge Computing & Cloud Infrastructure
+- 📚 Preparing for **PhD applications** in ML Systems, Distributed & Edge Computing ,  Cloud Infrastructure and Communications systems. 
 - ☁️ Building toward **AWS Solutions Architect** certification
 - 🧠 Deep diving into **distributed training**, **ML inference optimization**, **edge-cloud continuum**, and **high-performance computing**
 - 📝 Documenting my learning journey on **[my blog](https://hashnode.com/@pegasus04)**
