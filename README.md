@@ -104,7 +104,7 @@ I value **systems thinking over hype**, solid engineering fundamentals, and shar
 - 🌱 From **Cameroon** to France, building expertise in systems research
 - 🎯 Aspiring **PhD student** in ML Systems, Distributed Computing & Edge Computing
 - 🚀 Long-term: Research Engineer at top tech company or research lab
-- ✍️ Sharing my journey on **[my blog](https://hashnode.com/@pegasus04)**
+- ✍️ Sharing my journey on **[my blog](https://hashnode.com/@pegasus-nathanael)**
 
 ---
 
