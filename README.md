@@ -10,8 +10,8 @@
 
 <!-- Social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nathanael--fetue--foko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanael-fetue-foko)
-[![GitHub](https://img.shields.io/badge/GitHub-Pegasus04--Nathanael-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pegasus04-Nathanael)
-[![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@pegasus04)
+[![GitHub](https://img.shields.io/badge/GitHub-Pegasus04--Nathanael-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NathanaelFetue)
+[![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nathanael-fetue)
 
 </div>
 
@@ -35,7 +35,7 @@ I value **systems thinking over hype**, solid engineering fundamentals, and shar
 - 📚 Preparing for **PhD applications** in ML Systems, Distributed & Edge Computing ,  Cloud Infrastructure and Communications systems. 
 - ☁️ Building toward **AWS Solutions Architect** certification
 - 🧠 Deep diving into **distributed training**, **ML inference optimization**, **edge-cloud continuum**, and **high-performance computing**
-- 📝 Documenting my learning journey on **[my blog](https://hashnode.com/@pegasus04)**
+- 📝 Documenting my learning journey on **[my blog](https://hashnode.com/@nathanael-fetue)**
 
 ---
 
@@ -104,7 +104,7 @@ I value **systems thinking over hype**, solid engineering fundamentals, and shar
 - 🌱 From **Cameroon** to France, building expertise in systems research
 - 🎯 Aspiring **PhD student** in ML Systems, Distributed Computing & Edge Computing
 - 🚀 Long-term: Research Engineer at top tech company or research lab
-- ✍️ Sharing my journey on **[my blog](https://hashnode.com/@pegasus-nathanael)**
+- ✍️ Sharing my journey on **[my blog](https://hashnode.com/@nathanael-fetue)**
 
 ---
 
